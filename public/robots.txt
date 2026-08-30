@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://typeaware.github.io/sitemap.xml
